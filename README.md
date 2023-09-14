@@ -1,4 +1,4 @@
-#React 3D with Vite Boilerplate
+# React 3D with Vite Boilerplate
 ==============================
 
 Streamline 3D web app development with React, Three.js, Drei, and Vite.
